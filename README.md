@@ -12,4 +12,4 @@ I looked at A, B, c
 
 ## My notebook
 
-* [Run my Colab Notebook]()
+* [Run my Colab Notebook](https://github.com/zbazanowski/DS-Demo-2025/blob/main/DS-notebook.ipynb)
