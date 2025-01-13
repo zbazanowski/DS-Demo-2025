@@ -1,11 +1,10 @@
 name: Python application test with Github Actions
 
 # uncomment when well tested
-# on: [push]
+on: [push]
 
 # trigger it manually
-on:
-  workflow_dispatch
+# on: workflow_dispatch
 
 jobs:
   build:
